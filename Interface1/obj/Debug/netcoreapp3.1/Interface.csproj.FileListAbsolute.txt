@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\Interface,Polymorfisim\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Interface,Polymorfisim\Interface\obj\Debug\netcoreapp3.1\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Interface,Polymorfisim\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Interface,Polymorfisim\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Interface,Polymorfisim\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
